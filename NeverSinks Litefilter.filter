@@ -71,6 +71,7 @@ PlayEffect Orange Temp
 
 Show
 BaseType == "Gold"
+StackSize >= 100
 SetTextColor 180 180 180
 SetBorderColor 0 0 0 255
 SetBackgroundColor 0 0 0 180
