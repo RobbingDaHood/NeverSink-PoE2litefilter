@@ -76,6 +76,10 @@ SetTextColor 180 180 180
 SetBorderColor 0 0 0 255
 SetBackgroundColor 0 0 0 180
 
+Hide
+BaseType == "Gold"
+StackSize < 100
+
 #--------------------------
 # Uncut Gems
 #--------------------------
@@ -202,8 +206,6 @@ PlayEffect Cyan Temp
 
 Hide
 BaseType "Scroll of Wisdom"
-AreaLevel >= 65
-Rarity <= Magic
 
 #--------------------------
 # Socketables and Special Character Equipment
@@ -467,7 +469,7 @@ SetFontSize 35
 
 Hide
 Quality = 0
-AreaLevel > 70
+DropLevel < 30
 Rarity <= Magic
 Class "Flasks"
 
