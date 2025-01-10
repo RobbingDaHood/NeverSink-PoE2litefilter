@@ -89,7 +89,6 @@ Show
 BaseType "Uncut Spirit Gem"
 SetTextColor 20 240 240
 SetBorderColor 20 240 240
-PlayAlertSound 2 300
 PlayEffect Cyan
 MinimapIcon 1 Cyan Triangle
 SetFontSize 40
@@ -111,7 +110,6 @@ AreaLevel < 65
 BaseType "Uncut Skill Gem"
 SetTextColor 20 240 240
 SetBorderColor 20 240 240
-PlayAlertSound 2 300
 PlayEffect Cyan
 MinimapIcon 1 Cyan Triangle
 SetFontSize 40
