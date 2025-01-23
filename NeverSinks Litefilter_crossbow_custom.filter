@@ -382,11 +382,6 @@ MinimapIcon 1 Yellow Diamond
 #--------------------------
 
 Show
-Sockets > 1
-SetBorderColor 0 0 200
-SetFontSize 35
-
-Show
 Quality > 15
 SetBorderColor 0 0 200
 SetFontSize 35
