@@ -363,7 +363,7 @@ Class "Currency"
 
 Show
 BaseType "Waystone"
-WaystoneTier > 5
+WaystoneTier > 10
 SetTextColor 255 255 255
 SetBorderColor 255 255 255
 SetFontSize 35
@@ -371,7 +371,8 @@ PlayEffect White
 MinimapIcon 1 White Square
 PlayAlertSound 6 300
 
-Show
+hide
+WaystoneTier < 10
 BaseType "Waystone"
 
 #--------------------------
