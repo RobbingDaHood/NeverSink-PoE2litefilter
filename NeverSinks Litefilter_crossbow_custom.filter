@@ -415,6 +415,7 @@ SetFontSize 35
 
 Show
 Rarity Rare
+ItemLevel > 65
 SetFontSize 35
 
 #--------------------------
